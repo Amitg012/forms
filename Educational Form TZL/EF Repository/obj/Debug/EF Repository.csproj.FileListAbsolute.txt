@@ -1,0 +1,35 @@
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\nunit.engine.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\nunit.engine.api.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\nunit.engine.core.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\EF Repository.dll.config
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\EF Repository.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\EF Repository.pdb
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\Educational Form.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\LanguageExt.Core.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\nunit.framework.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Buffers.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Memory.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\WebDriver.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\WebDriver.Support.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\Educational Form.pdb
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\LanguageExt.Core.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\nunit.framework.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Buffers.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Memory.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\WebDriver.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\bin\Debug\WebDriver.Support.xml
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\obj\Debug\EF Repository.csproj.AssemblyReference.cache
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\obj\Debug\EF Repository.csproj.CoreCompileInputs.cache
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\obj\Debug\EF Repository.csproj.CopyComplete
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\obj\Debug\EF Repository.dll
+C:\Users\ghodk\source\repos\Educational Form TZL\EF Repository\obj\Debug\EF Repository.pdb
